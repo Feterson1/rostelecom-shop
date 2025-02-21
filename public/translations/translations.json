@@ -4,7 +4,9 @@
       "more": "More"
     },
     "header": {
-      "menu_btn": "Menu"
+      "menu_btn": "Menu",
+      "search_products": "Products for products",
+      "search_infos": "Product name, category, type..."
     },
     "main_menu": {
       "catalog": "Catalog",
@@ -59,7 +61,9 @@
       "more": "Ещё"
     },
     "header": {
-      "menu_btn": "Меню"
+      "menu_btn": "Меню",
+      "search_products": "Поиск товаров",
+      "search_infos": "Название товара, категория, тип..."
     },
     "main_menu": {
       "catalog": "Каталог",
