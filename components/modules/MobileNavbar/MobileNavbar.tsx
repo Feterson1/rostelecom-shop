@@ -8,7 +8,7 @@ import {
 } from '@/context/modals'
 import { useLang } from '@/hooks/useLang'
 import { addOverflowHiddenToBody } from '@/lib/utils/common'
-import CatalogMenu from '../header/CatalogMenu'
+import CatalogMenu from '../Header/CatalogMenu'
 
 const MobileNavbar = () => {
   const { lang, translations } = useLang()
